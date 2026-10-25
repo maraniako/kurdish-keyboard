@@ -1,4 +1,4 @@
-// Kurdish United Keyboard layout for XKB (zza, kmr, ckb, hac, sdh, luri, lak).
+// Kurdish United Keyboard layout for XKB (zza, kmr, ckb, hac, sdh, luri).
 //
 // Phonetic mapping: each letter sits on the Latin key that sounds like it.
 // Level 1 = key, Level 2 = Shift + key.
